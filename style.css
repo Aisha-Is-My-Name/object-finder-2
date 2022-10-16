@@ -1,0 +1,19 @@
+body{
+    background-position: center;
+    background-size:cover;
+}
+.heading{
+    width: 100px;
+    margin: 0px;
+    font-size: large;
+}
+p{
+    color: pink;
+    margin-bottom: 0px;
+    font-size: small;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px white;
+    background-color: aquamarine;
+}
